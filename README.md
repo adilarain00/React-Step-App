@@ -1,4 +1,4 @@
-# React Step App
+# The React Step App
 
 <img src="./public/ReactStepApp.PNG" style="height: 400px; width: 100%; border-radius: 10px" />
 
